@@ -1,0 +1,51 @@
+[
+    {
+        "question":"What is the capital of America?",
+        "answer1":"Newwork",
+        "answer2":"Helsnki",
+        "answer3":"Berlin",
+        "answer4":"Washnton",
+        "right":"Washnton"
+    },
+    {
+        "question":"What is the capital of Egypt?",
+        "answer1":"Islamibad",
+        "answer2":"Istanbul",
+        "answer3":"Brasilai",
+        "answer4":"Cairo",
+        "right":"Cairo"
+    },
+    {
+        "question":"What is the capital of Syria?",
+        "answer1":"Kabul",
+        "answer2":"Algiers",
+        "answer3":"Damascus",
+        "answer4":"Saint John’s",
+        "right":"Damascus"
+    },
+    {
+        "question":"What is the capital of Turkey?",
+        "answer1":"Ankara",
+        "answer2":"Helsnki",
+        "answer3":"Vienna",
+        "answer4":"Nassau",
+        "right":"Ankara"
+    },
+    {
+        "question":"What is the capital of Germany?",
+        "answer1":"Brussels",
+        "answer2":"Minsk",
+        "answer3":"Berlin",
+        "answer4":"Porto Novo",
+        "right":"Berlin"
+    },
+    {
+        "question":"What is the capital of Ireland?",
+        "answer1":"Rome",
+        "answer2":"Tokyo",
+        "answer3":"Tehran",
+        "answer4":"Dublin",
+        "right":"Washnton"
+    }
+
+]
